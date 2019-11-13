@@ -1,3 +1,5 @@
 numpy
 msgpack-python
 spacy<=1.9
+dill>=0.3.1
+spacy>=2.0.18
